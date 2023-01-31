@@ -30,5 +30,5 @@ if (amount > bank_balance) {
     console.log("You cannot afford this purchase")
 }
 else {
-    console.log("Hooray, You can buy Your phones!")
+    console.log("Finally, You can buy Your phones!")
 }
